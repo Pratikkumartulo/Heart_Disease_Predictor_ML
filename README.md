@@ -1,1 +1,1 @@
-This repository contains a logistic regression model developed using Python and Jupyter Notebook. The model is trained to classify data into two categories, and the repository includes all necessary code and documentation to understand, reproduce, and evaluate the model.
+This repository contains a logistic regression model developed using Python and Jupyter Notebook. The model is trained to classify data into two categories, and the repository includes all necessary code and documentation to understand and evaluate the model.
